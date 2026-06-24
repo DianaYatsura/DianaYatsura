@@ -1,4 +1,4 @@
-# Hello there,I'm Diana Yatsura! 👋
+# Hello there,I'm Diana Yatsura! 
 
 ### Some statistics and my achievements on GitHub
 
