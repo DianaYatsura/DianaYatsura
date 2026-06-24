@@ -1,6 +1,6 @@
-# Hello,Im Diana Yatsura! 👋
+# Hello there,I'm Diana Yatsura! 👋
 
-### 📊 Some statistics and my achievements on GitHub
+### Some statistics and my achievements on GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DianaYatsura&theme=onedark" alt="Trophies" />
